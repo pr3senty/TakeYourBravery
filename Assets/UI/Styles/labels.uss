@@ -1,0 +1,33 @@
+.game-name-label {
+    display: flex;
+    visibility: visible;
+    overflow: visible;
+    align-items: stretch;
+    -unity-text-align: middle-center;
+    font-size: 81px;
+    -unity-font-style: normal;
+    letter-spacing: 25px;
+    word-spacing: 5px;
+    text-shadow: 0 0 0 rgb(0, 0, 0);
+    -unity-text-outline-width: 0;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    -unity-font: url('project://database/Assets/Art/Fonts/Labrada/Labrada-VariableFont_wght.ttf?fileID=12800000&guid=7b70b14ede378f34f9c1e5e98aacc8c5&type=3#Labrada-VariableFont_wght');
+    -unity-font-definition: url('project://database/Assets/Art/Fonts/Labrada/Labrada-VariableFont_wght%20SDF.asset?fileID=11400000&guid=56e1bdbd911819d4699998bcda7a6676&type=2#Labrada-VariableFont_wght SDF');
+    color: rgb(82, 79, 157);
+    flex-grow: 1;
+}
+
+.credit-label {
+    -unity-font: url('project://database/Assets/Art/Fonts/JosefinSans/JosefinSans-VariableFont_wght.ttf?fileID=12800000&guid=6559f4bd3b52401479a5e77f2ba16f79&type=3#JosefinSans-VariableFont_wght');
+    -unity-font-definition: url('project://database/Assets/Art/Fonts/JosefinSans/JosefinSans-VariableFont_wght%20SDF.asset?fileID=11400000&guid=31e238fdd47acda43b01d75a09e10ea7&type=2#JosefinSans-VariableFont_wght SDF');
+    font-size: 100px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+    color: rgb(198, 81, 92);
+}
+
+.label {
+    -unity-font-definition: url('project://database/Assets/Art/Fonts/Morice-Bejar/Morice-Bejar%20SDF.asset?fileID=11400000&guid=c49fcac3c4b62e445b8beb779769b8a8&type=2#Morice-Bejar SDF');
+    -unity-font: url('project://database/Assets/Art/Fonts/Morice-Bejar/Morice-Bejar.ttf?fileID=12800000&guid=8d9fc7426f0dff341816cd305b6b816b&type=3#Morice-Bejar');
+    font-size: 12px;
+}

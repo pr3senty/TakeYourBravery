@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/buttons.uss?fileID=7433441132597879392&amp;guid=da8b06545dd31e040a7435e021ffd194&amp;type=3#buttons" />
+    <Style src="project://database/Assets/UI/Styles/background.uss?fileID=7433441132597879392&amp;guid=9f7294ab6cac70b468e95f91dd33265b&amp;type=3#background" />
+    <Style src="project://database/Assets/UI/Styles/labels.uss?fileID=7433441132597879392&amp;guid=65280e0f1394d2e4fa8a64279a9c297e&amp;type=3#labels" />
+    <ui:VisualElement name="container" class="background-color" style="flex-grow: 1; flex-direction: column;">
+        <ui:VisualElement name="game-name-area" style="flex-basis: 20%;">
+            <ui:Label text="Take Your Bravery" display-tooltip-when-elided="true" name="game-name-label" class="game-name-label" style="font-size: 135px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="other-area" style="flex-basis: auto; flex-grow: 1; flex-direction: row;">
+            <ui:VisualElement name="buttons-area" style="flex-basis: 35%; align-items: center; justify-content: flex-start;">
+                <ui:Button text="вернуться" display-tooltip-when-elided="true" name="resume-button" class="menu-button pause-menu-buton pause-menu-button" style="margin-top: 193px;" />
+                <ui:Button text="авторы" display-tooltip-when-elided="true" name="credits-button" class="menu-button pause-menu-button" style="margin-top: 20%;" />
+                <ui:Button text="выход из игры" display-tooltip-when-elided="true" name="quit-button" class="menu-button pause-menu-button" style="margin-top: 20%;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

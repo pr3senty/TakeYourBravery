@@ -1,0 +1,67 @@
+.menu-button {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 50px;
+    display: flex;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 60px;
+    margin-right: 30px;
+    margin-bottom: 0;
+    font-size: 21px;
+    justify-content: flex-start;
+    align-items: stretch;
+    -unity-text-align: middle-center;
+    -unity-font: url('project://database/Assets/Art/Fonts/Morice-Bejar/Morice-Bejar.ttf?fileID=12800000&guid=8d9fc7426f0dff341816cd305b6b816b&type=3#Morice-Bejar');
+    -unity-font-definition: url('project://database/Assets/Art/Fonts/Morice-Bejar/Morice-Bejar%20SDF.asset?fileID=11400000&guid=c49fcac3c4b62e445b8beb779769b8a8&type=2#Morice-Bejar SDF');
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left-width: 4px;
+    border-right-width: 10px;
+    border-top-width: 3px;
+    border-bottom-width: 7px;
+    border-left-color: rgb(30, 39, 134);
+    border-right-color: rgb(30, 39, 134);
+    border-top-color: rgb(30, 39, 134);
+    border-bottom-color: rgb(30, 39, 134);
+    background-color: rgb(30, 39, 134);
+    color: rgb(138, 82, 134);
+}
+
+.menu-button:hover {
+    border-left-color: rgb(138, 82, 134);
+    border-right-color: rgb(138, 82, 134);
+    border-top-color: rgb(138, 82, 134);
+    border-bottom-color: rgb(138, 82, 134);
+    white-space: normal;
+    -unity-paragraph-spacing: 0;
+    -unity-text-align: upper-center;
+    padding-right: 0;
+    padding-left: 15px;
+    padding-top: 0;
+    padding-bottom: 5px;
+}
+
+.icon-button {
+    background-image: none;
+    width: 64px;
+    height: 64px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    -unity-background-image-tint-color: rgb(82, 79, 157);
+    margin-left: 15px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.pause-menu-button {
+    margin-top: 240px;
+    width: 80%;
+    height: 8%;
+    font-size: 43px;
+}

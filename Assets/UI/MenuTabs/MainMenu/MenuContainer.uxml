@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="Credits" src="project://database/Assets/Scenes/TryUI/MenuTabs/Credits.uxml?fileID=9197481963319205126&amp;guid=db20e39f446f3fe44bc28651064b2e73&amp;type=3#Credits" />
+    <ui:Template name="MainMenu" src="project://database/Assets/Scenes/TryUI/MenuTabs/MainMenu.uxml?fileID=9197481963319205126&amp;guid=767700adc7508cb438b4d4d94a4b4398&amp;type=3#MainMenu" />
+    <ui:Instance template="Credits" name="CreditsMenu" style="flex-grow: 1; display: none;" />
+    <ui:Instance template="MainMenu" name="MainMenu" style="flex-grow: 1;" />
+</ui:UXML>

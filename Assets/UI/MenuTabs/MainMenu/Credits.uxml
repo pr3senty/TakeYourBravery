@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scenes/TryUI/Styles/background.uss?fileID=7433441132597879392&amp;guid=9f7294ab6cac70b468e95f91dd33265b&amp;type=3#background" />
+    <Style src="project://database/Assets/Scenes/TryUI/Styles/labels.uss?fileID=7433441132597879392&amp;guid=65280e0f1394d2e4fa8a64279a9c297e&amp;type=3#labels" />
+    <Style src="project://database/Assets/Scenes/TryUI/Styles/buttons.uss?fileID=7433441132597879392&amp;guid=da8b06545dd31e040a7435e021ffd194&amp;type=3#buttons" />
+    <ui:VisualElement name="credits-area" class="background-color" style="flex-grow: 1;">
+        <ui:VisualElement name="labels-area" style="flex-grow: 1;">
+            <ui:Label text="developed by pr3senty " display-tooltip-when-elided="true" name="developed-by-label" class="credit-label" style="flex-basis: 0; align-items: stretch; flex-grow: 1; -unity-text-align: lower-center; margin-top: 20%;" />
+            <ui:Label text="for tbo olympiad" display-tooltip-when-elided="true" name="for-label" class="credit-label" style="flex-grow: 1; font-size: 100px; -unity-text-align: upper-center;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="buttons-area" style="flex-direction: row; align-items: center; justify-content: flex-start; flex-basis: 15%;">
+            <ui:Button text="назад" display-tooltip-when-elided="true" name="back-button" class="menu-button" style="justify-content: space-between; width: 15%; height: 60%; margin-left: 65px; margin-right: 0; margin-top: 0; margin-bottom: 0; font-size: 38px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scenes/TryUI/Styles/background.uss?fileID=7433441132597879392&amp;guid=9f7294ab6cac70b468e95f91dd33265b&amp;type=3#background" />
+    <Style src="project://database/Assets/Scenes/TryUI/Styles/buttons.uss?fileID=7433441132597879392&amp;guid=da8b06545dd31e040a7435e021ffd194&amp;type=3#buttons" />
+    <Style src="project://database/Assets/Scenes/TryUI/Styles/labels.uss?fileID=7433441132597879392&amp;guid=65280e0f1394d2e4fa8a64279a9c297e&amp;type=3#labels" />
+    <ui:VisualElement name="main-menu-area" focusable="true" class="background-color" style="flex-grow: 1; flex-shrink: 1;">
+        <ui:VisualElement name="game-name-area" style="flex-grow: 0; flex-shrink: 1; flex-basis: 20%;">
+            <ui:Label text="Take Your Bravery" display-tooltip-when-elided="true" name="game-name" enable-rich-text="true" class="game-name-label" style="flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="other" style="flex-grow: 1; height: auto; flex-direction: row; flex-basis: auto;">
+            <ui:VisualElement name="buttons-area" style="flex-grow: 0; flex-shrink: 1; flex-basis: 40%; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; align-items: stretch; justify-content: center; padding-left: 0; flex-direction: column; display: flex; padding-right: 0;">
+                <ui:Button text="начать игру" display-tooltip-when-elided="true" name="start-game-button" class="menu-button menu-buton" />
+                <ui:Button text="авторы" display-tooltip-when-elided="true" name="credits-button" class="menu-button menu-buton" />
+                <ui:Button text="выйти из игры" display-tooltip-when-elided="true" name="exit-game-button" class="menu-button menu-buton" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="information" style="flex-grow: 0; flex-direction: row-reverse; flex-basis: 13%; align-items: center; margin-right: 5%;">
+            <ui:Button text="&#10;" display-tooltip-when-elided="true" name="github-icon" class="icon-button" style="background-image: url(&apos;project://database/Assets/Scenes/TryUI/file.jpg?fileID=2800000&amp;guid=23313b1e784e1994a8972ede3b1a0bcc&amp;type=3#file&apos;);" />
+            <ui:Button display-tooltip-when-elided="true" name="itch_io-icon" class="icon-button" style="background-image: url(&apos;project://database/Assets/Scenes/TryUI/raw.png?fileID=2800000&amp;guid=7872c00ab695d324b8dcf293eb0bdee0&amp;type=3#raw&apos;);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

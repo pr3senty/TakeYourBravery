@@ -1,0 +1,2482 @@
+fileFormatVersion: 2
+guid: 85f9816f0ac336442982524eeab3daef
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -548676310400863498
+    second: Obj3d66-504125-5-412|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -4013950597647829093
+    second: Obj3d66-504125-5-412|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -4405522448153754626
+    second: Obj3d66-504125-5-412|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 5737140766220716106
+    second: Obj3d66-504125-5-412|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 470033412324861272
+    second: Obj3d66-504125-5-412|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 9178367515353549857
+    second: Obj3d66-504125-5-412|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 4360711245662743492
+    second: Obj3d66-504125-5-412|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 1326583793457915578
+    second: Obj3d66-504125-5-412|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -2797722960618292756
+    second: Obj3d66-504125-5-412|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 4111070745704800521
+    second: Obj3d66-504125-5-412|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 5868043263168118670
+    second: Obj3d66-504125-5-412|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: -1084955829790809204
+    second: Obj3d66-504125-5-412|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -3299130318991001040
+    second: Obj3d66-504125-5-412|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -2918723322634791877
+    second: Obj3d66-504125-5-412|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 4661874565794135547
+    second: Obj3d66-504125-5-412|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -3476086756659674099
+    second: Obj3d66-504125-5-412|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -1366494701113543164
+    second: Obj3d66-504125-5-412|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -2987321460094895646
+    second: Obj3d66-504125-5-412|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -2271726213226396678
+    second: Obj3d66-504125-5-412|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 7088356382644300700
+    second: Obj3d66-504125-5-412|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -705015738288039691
+    second: Obj3d66-504125-5-412|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -6242375674601030791
+    second: Obj3d66-504125-5-412|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -8123641543948992896
+    second: Obj3d66-504125-5-412|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 6045267047015907168
+    second: Obj3d66-504125-5-412|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 500692065222076891
+    second: Obj3d66-504125-5-412|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -3822853686407728594
+    second: Obj3d66-504125-5-412|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -817285654982008155
+    second: Obj3d66-504125-5-412|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -7184825639957131971
+    second: Obj3d66-504125-5-412|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -4369610417230698286
+    second: Obj3d66-504125-5-412|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 6166600821148442620
+    second: Obj3d66-504125-5-412|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 1494605086666455540
+    second: Obj3d66-504125-5-412|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 6887317485031384561
+    second: Obj3d66-504125-5-412|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 4366295161681299860
+    second: Obj3d66-504125-5-412|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -1835894493304507393
+    second: Obj3d66-504125-7-710|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 8779525888167742128
+    second: Obj3d66-504125-7-710|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -8098257955699856259
+    second: Obj3d66-504125-7-710|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 370183855264671629
+    second: Obj3d66-504125-7-710|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 6655229402256163139
+    second: Obj3d66-504125-7-710|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -9090461603324970160
+    second: Obj3d66-504125-7-710|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 8523279828206789294
+    second: Obj3d66-504125-7-710|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 5871767970500109074
+    second: Obj3d66-504125-7-710|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -5549030335540924398
+    second: Obj3d66-504125-7-710|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -4062006448636246747
+    second: Obj3d66-504125-7-710|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -761279405523123247
+    second: Obj3d66-504125-7-710|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 7389500680856633762
+    second: Obj3d66-504125-7-710|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -6146996841692469586
+    second: Obj3d66-504125-7-710|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 3078534534787411250
+    second: Obj3d66-504125-7-710|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 6029277881932492299
+    second: Obj3d66-504125-7-710|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -1125645399084633296
+    second: Obj3d66-504125-7-710|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 1265502660301744137
+    second: Obj3d66-504125-7-710|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 2304448296443356637
+    second: Obj3d66-504125-7-710|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -2254207788114315829
+    second: Obj3d66-504125-7-710|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -1509044288916126327
+    second: Obj3d66-504125-7-710|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 6694165771422504339
+    second: Obj3d66-504125-7-710|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -4783312397314696366
+    second: Obj3d66-504125-7-710|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 8770052188629736629
+    second: Obj3d66-504125-7-710|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 8483919503079337262
+    second: Obj3d66-504125-7-710|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -5780941708935168677
+    second: Obj3d66-504125-7-710|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 2194060565477474053
+    second: Obj3d66-504125-7-710|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 5430905438328257489
+    second: Obj3d66-504125-7-710|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -5475358589248024656
+    second: Obj3d66-504125-7-710|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -8083159430887024085
+    second: Obj3d66-504125-7-710|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 960214157078960018
+    second: Obj3d66-504125-7-710|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -764950411260646146
+    second: Obj3d66-504125-7-710|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -7525222106260445059
+    second: Obj3d66-504125-7-710|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -4792583130705838815
+    second: Obj3d66-504125-7-710|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 7618661742330935005
+    second: Obj3d66-504125-13-464|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 3001025642997836350
+    second: Obj3d66-504125-13-464|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -6473165961677714280
+    second: Obj3d66-504125-13-464|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -1502884268778807352
+    second: Obj3d66-504125-13-464|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -1246452672794484046
+    second: Obj3d66-504125-13-464|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 6754218717050398769
+    second: Obj3d66-504125-13-464|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -7858363090194519284
+    second: Obj3d66-504125-13-464|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 6543382574779978961
+    second: Obj3d66-504125-13-464|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 3739375662322419932
+    second: Obj3d66-504125-13-464|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 899846526100995946
+    second: Obj3d66-504125-13-464|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 4895173905417677803
+    second: Obj3d66-504125-13-464|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: -3468979067529321668
+    second: Obj3d66-504125-13-464|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -6202886537062254221
+    second: Obj3d66-504125-13-464|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 6475754890454311633
+    second: Obj3d66-504125-13-464|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 6129370365370189794
+    second: Obj3d66-504125-13-464|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 7559833341570715737
+    second: Obj3d66-504125-13-464|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -5108091739321454592
+    second: Obj3d66-504125-13-464|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 5999681176574869943
+    second: Obj3d66-504125-13-464|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 2088560300421055840
+    second: Obj3d66-504125-13-464|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 1900918170711202584
+    second: Obj3d66-504125-13-464|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 8906498880974554582
+    second: Obj3d66-504125-13-464|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -1061555804681490857
+    second: Obj3d66-504125-13-464|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -4809271082981183759
+    second: Obj3d66-504125-13-464|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -7536090241732369097
+    second: Obj3d66-504125-13-464|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 5344125693481231415
+    second: Obj3d66-504125-13-464|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 2708087160102316196
+    second: Obj3d66-504125-13-464|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 3092462141110979022
+    second: Obj3d66-504125-13-464|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 171620909929115398
+    second: Obj3d66-504125-13-464|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -3252475096266215769
+    second: Obj3d66-504125-13-464|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -2411543777415569759
+    second: Obj3d66-504125-13-464|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 1218596843642770106
+    second: Obj3d66-504125-13-464|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -4706270266005940183
+    second: Obj3d66-504125-13-464|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -2487772450826280349
+    second: Obj3d66-504125-13-464|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 6149153727930306814
+    second: Obj3d66-504125-14-716|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -8346220043208964526
+    second: Obj3d66-504125-14-716|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 4641261901027294240
+    second: Obj3d66-504125-14-716|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -2088976585167781000
+    second: Obj3d66-504125-14-716|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 195576907794764939
+    second: Obj3d66-504125-14-716|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -3986306479654797243
+    second: Obj3d66-504125-14-716|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -387025511996171035
+    second: Obj3d66-504125-14-716|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -6634061518379125112
+    second: Obj3d66-504125-14-716|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 2777464825831054514
+    second: Obj3d66-504125-14-716|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 5938194999748058765
+    second: Obj3d66-504125-14-716|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 4083615719792137051
+    second: Obj3d66-504125-14-716|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: -5241955180074252261
+    second: Obj3d66-504125-14-716|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 2093653316543653064
+    second: Obj3d66-504125-14-716|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -9169549287928349894
+    second: Obj3d66-504125-14-716|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 4597593197244939535
+    second: Obj3d66-504125-14-716|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -555891984724966749
+    second: Obj3d66-504125-14-716|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -7504175882694879030
+    second: Obj3d66-504125-14-716|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -480955824030020812
+    second: Obj3d66-504125-14-716|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -5783593173944675750
+    second: Obj3d66-504125-14-716|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 3345873104357161765
+    second: Obj3d66-504125-14-716|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 394546259536134067
+    second: Obj3d66-504125-14-716|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 7057098205633078583
+    second: Obj3d66-504125-14-716|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 4133236948357662258
+    second: Obj3d66-504125-14-716|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -3614831863616392692
+    second: Obj3d66-504125-14-716|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -329996766802427964
+    second: Obj3d66-504125-14-716|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -7519896295490212487
+    second: Obj3d66-504125-14-716|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 2720134487247453050
+    second: Obj3d66-504125-14-716|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 6282082987369326520
+    second: Obj3d66-504125-14-716|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 5753811034452722257
+    second: Obj3d66-504125-14-716|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -7784508761377016229
+    second: Obj3d66-504125-14-716|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 2206946605094912911
+    second: Obj3d66-504125-14-716|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -1957798052166330607
+    second: Obj3d66-504125-14-716|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 948959557832119812
+    second: Obj3d66-504125-14-716|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -8282905630510301094
+    second: Obj3d66-504125-20-992|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -3083451262483911751
+    second: Obj3d66-504125-20-992|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 1652586219064887347
+    second: Obj3d66-504125-20-992|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -84213250919800223
+    second: Obj3d66-504125-20-992|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -1162489659978175282
+    second: Obj3d66-504125-20-992|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -1187935366054437798
+    second: Obj3d66-504125-20-992|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -6286979295105714300
+    second: Obj3d66-504125-20-992|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 7980007671228011170
+    second: Obj3d66-504125-20-992|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -4314509836962521483
+    second: Obj3d66-504125-20-992|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 3468822509067717569
+    second: Obj3d66-504125-20-992|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -4879411447036363609
+    second: Obj3d66-504125-20-992|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 5434168008498213600
+    second: Obj3d66-504125-20-992|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -1295678798904419195
+    second: Obj3d66-504125-20-992|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 2833291640428666985
+    second: Obj3d66-504125-20-992|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -5072640460089918443
+    second: Obj3d66-504125-20-992|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -884924142981204774
+    second: Obj3d66-504125-20-992|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -6124493074023441519
+    second: Obj3d66-504125-20-992|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -1603373494908709176
+    second: Obj3d66-504125-20-992|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -604966615655766876
+    second: Obj3d66-504125-20-992|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -8865126118946088545
+    second: Obj3d66-504125-20-992|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 8799027228242778749
+    second: Obj3d66-504125-20-992|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -2899626962229745427
+    second: Obj3d66-504125-20-992|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -5334582382607869125
+    second: Obj3d66-504125-20-992|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -295189872874065656
+    second: Obj3d66-504125-20-992|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -5380771630541087955
+    second: Obj3d66-504125-20-992|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 2660281752492943575
+    second: Obj3d66-504125-20-992|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 6848593360663538822
+    second: Obj3d66-504125-20-992|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -2131281423227388235
+    second: Obj3d66-504125-20-992|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -1500057683414962691
+    second: Obj3d66-504125-20-992|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 7052939779138677662
+    second: Obj3d66-504125-20-992|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 7020244125871107508
+    second: Obj3d66-504125-20-992|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -7356793766534334668
+    second: Obj3d66-504125-20-992|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 464681700962702896
+    second: Obj3d66-504125-20-992|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 2619508155211306865
+    second: Obj3d66-504125-21-73|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 4376059009130813717
+    second: Obj3d66-504125-21-73|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 2155037802731578451
+    second: Obj3d66-504125-21-73|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -2815645031819156402
+    second: Obj3d66-504125-21-73|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 1005012812582612829
+    second: Obj3d66-504125-21-73|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -9061895898310451648
+    second: Obj3d66-504125-21-73|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -6690969425352934939
+    second: Obj3d66-504125-21-73|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 5034232843241362668
+    second: Obj3d66-504125-21-73|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 7145746608397938297
+    second: Obj3d66-504125-21-73|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 2635120098599774931
+    second: Obj3d66-504125-21-73|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 1342252340860329383
+    second: Obj3d66-504125-21-73|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 7206596537742786044
+    second: Obj3d66-504125-21-73|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -3781615044026797536
+    second: Obj3d66-504125-21-73|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 1832020089471223825
+    second: Obj3d66-504125-21-73|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -7625089847827823685
+    second: Obj3d66-504125-21-73|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -3032797646602298835
+    second: Obj3d66-504125-21-73|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 1379776191319962286
+    second: Obj3d66-504125-21-73|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -200534167943269932
+    second: Obj3d66-504125-21-73|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -1136500321479171473
+    second: Obj3d66-504125-21-73|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 1176266261481210587
+    second: Obj3d66-504125-21-73|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -1178503231469928421
+    second: Obj3d66-504125-21-73|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -2239315011520210262
+    second: Obj3d66-504125-21-73|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -6058625519617567927
+    second: Obj3d66-504125-21-73|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -4652090136866876106
+    second: Obj3d66-504125-21-73|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 9186522420012215245
+    second: Obj3d66-504125-21-73|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 5153361748144930593
+    second: Obj3d66-504125-21-73|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 6507194649869031085
+    second: Obj3d66-504125-21-73|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -1700614650283718663
+    second: Obj3d66-504125-21-73|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 884380662100619978
+    second: Obj3d66-504125-21-73|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 6892557081073666993
+    second: Obj3d66-504125-21-73|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -241459142083488808
+    second: Obj3d66-504125-21-73|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 5949959377729305090
+    second: Obj3d66-504125-21-73|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 3259775858997250589
+    second: Obj3d66-504125-21-73|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 3932211745149430149
+    second: Obj3d66-504125-27-699|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -1773778210699828721
+    second: Obj3d66-504125-27-699|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -2716432879049123567
+    second: Obj3d66-504125-27-699|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 7975507451575382885
+    second: Obj3d66-504125-27-699|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 2670062310038350212
+    second: Obj3d66-504125-27-699|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 4616209583513759159
+    second: Obj3d66-504125-27-699|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 1832741530371993007
+    second: Obj3d66-504125-27-699|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -7206756318327852335
+    second: Obj3d66-504125-27-699|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 973132345853939271
+    second: Obj3d66-504125-27-699|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 7087806410689979773
+    second: Obj3d66-504125-27-699|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 8234738515688908591
+    second: Obj3d66-504125-27-699|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: -7885861726664734235
+    second: Obj3d66-504125-27-699|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 8474073298063077610
+    second: Obj3d66-504125-27-699|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 1262814821990318209
+    second: Obj3d66-504125-27-699|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 268352257440073282
+    second: Obj3d66-504125-27-699|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -7526354495713422252
+    second: Obj3d66-504125-27-699|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 5444056862676916049
+    second: Obj3d66-504125-27-699|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 6753285574278263828
+    second: Obj3d66-504125-27-699|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 8978019226514075709
+    second: Obj3d66-504125-27-699|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -7580789057752470920
+    second: Obj3d66-504125-27-699|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -5356539114341685082
+    second: Obj3d66-504125-27-699|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 6200362355215525592
+    second: Obj3d66-504125-27-699|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 378727011337025719
+    second: Obj3d66-504125-27-699|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -6080614655480212589
+    second: Obj3d66-504125-27-699|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 6332633997364876243
+    second: Obj3d66-504125-27-699|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 1685916173204076252
+    second: Obj3d66-504125-27-699|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -939731822563333511
+    second: Obj3d66-504125-27-699|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 8989830651589770647
+    second: Obj3d66-504125-27-699|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 704651394530867221
+    second: Obj3d66-504125-27-699|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 1222857178491854354
+    second: Obj3d66-504125-27-699|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 6986432157064364077
+    second: Obj3d66-504125-27-699|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -7234211688517595849
+    second: Obj3d66-504125-27-699|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -1797619414758855635
+    second: Obj3d66-504125-27-699|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -1024466062052356277
+    second: Obj3d66-504125-29-878|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -7474012614892770798
+    second: Obj3d66-504125-29-878|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 5184069724873500136
+    second: Obj3d66-504125-29-878|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -6859353551222015916
+    second: Obj3d66-504125-29-878|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 151367862488095379
+    second: Obj3d66-504125-29-878|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -3445107327611963925
+    second: Obj3d66-504125-29-878|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 4858887871858468822
+    second: Obj3d66-504125-29-878|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -8787642234225145295
+    second: Obj3d66-504125-29-878|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 8911225269941009684
+    second: Obj3d66-504125-29-878|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 874945640593511996
+    second: Obj3d66-504125-29-878|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -7005677957139452161
+    second: Obj3d66-504125-29-878|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 5058752465627632551
+    second: Obj3d66-504125-29-878|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -1638673734163777724
+    second: Obj3d66-504125-29-878|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 6032668753235069966
+    second: Obj3d66-504125-29-878|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 8627209630033036477
+    second: Obj3d66-504125-29-878|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 2360235451537378366
+    second: Obj3d66-504125-29-878|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -4993859250081761152
+    second: Obj3d66-504125-29-878|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -3063448553360027641
+    second: Obj3d66-504125-29-878|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 6430241431349432071
+    second: Obj3d66-504125-29-878|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -2738808261431621790
+    second: Obj3d66-504125-29-878|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 7639360621194963952
+    second: Obj3d66-504125-29-878|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -433328365119789317
+    second: Obj3d66-504125-29-878|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 1980632582497471407
+    second: Obj3d66-504125-29-878|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 273626157870210687
+    second: Obj3d66-504125-29-878|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -5498468925799675652
+    second: Obj3d66-504125-29-878|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -7700526284515349065
+    second: Obj3d66-504125-29-878|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -2491399894470744063
+    second: Obj3d66-504125-29-878|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -5138746366448153143
+    second: Obj3d66-504125-29-878|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -7985262388810275989
+    second: Obj3d66-504125-29-878|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 6502372880199529530
+    second: Obj3d66-504125-29-878|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -6833901361485332558
+    second: Obj3d66-504125-29-878|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 5179454230978440081
+    second: Obj3d66-504125-29-878|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 8866367166437906111
+    second: Obj3d66-504125-29-878|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -1760751871547960717
+    second: Obj3d66-504125-34-356|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 2934127438033039218
+    second: Obj3d66-504125-34-356|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 8997296285742709860
+    second: Obj3d66-504125-34-356|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 6233260984772725723
+    second: Obj3d66-504125-34-356|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -2068315996791591937
+    second: Obj3d66-504125-34-356|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 3226969097384026656
+    second: Obj3d66-504125-34-356|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -3744843645451934014
+    second: Obj3d66-504125-34-356|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 703261597410494966
+    second: Obj3d66-504125-34-356|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -7971831686560767281
+    second: Obj3d66-504125-34-356|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 7637688863002516412
+    second: Obj3d66-504125-34-356|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 5299734312963879765
+    second: Obj3d66-504125-34-356|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 5809921279391664916
+    second: Obj3d66-504125-34-356|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 8389602223462238082
+    second: Obj3d66-504125-34-356|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 4277187297879127809
+    second: Obj3d66-504125-34-356|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 8536282725753906257
+    second: Obj3d66-504125-34-356|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 5940995040379056850
+    second: Obj3d66-504125-34-356|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 6030587556098492536
+    second: Obj3d66-504125-34-356|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -8553005574111334761
+    second: Obj3d66-504125-34-356|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -2249977550070138396
+    second: Obj3d66-504125-34-356|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 6180284409586301036
+    second: Obj3d66-504125-34-356|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -4274932256229544965
+    second: Obj3d66-504125-34-356|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 5062111215308826055
+    second: Obj3d66-504125-34-356|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 7116538886508103269
+    second: Obj3d66-504125-34-356|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 626816961272498796
+    second: Obj3d66-504125-34-356|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -1086949613798325275
+    second: Obj3d66-504125-34-356|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -6749878094785879032
+    second: Obj3d66-504125-34-356|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 2278822506229628423
+    second: Obj3d66-504125-34-356|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 3199586195155283449
+    second: Obj3d66-504125-34-356|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -979308894145334273
+    second: Obj3d66-504125-34-356|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 2900070251045512697
+    second: Obj3d66-504125-34-356|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 7863523198948708138
+    second: Obj3d66-504125-34-356|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 4919715313878277232
+    second: Obj3d66-504125-34-356|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -5726848630862233178
+    second: Obj3d66-504125-34-356|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -7810575061847201127
+    second: Obj3d66-504125-35-823|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -178472240396913067
+    second: Obj3d66-504125-35-823|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 4507907890114212103
+    second: Obj3d66-504125-35-823|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -6702340859744756364
+    second: Obj3d66-504125-35-823|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -2161441973478898425
+    second: Obj3d66-504125-35-823|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -1321883175760702455
+    second: Obj3d66-504125-35-823|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 4405011565305929347
+    second: Obj3d66-504125-35-823|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 1725983661622107110
+    second: Obj3d66-504125-35-823|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -1524210344206298655
+    second: Obj3d66-504125-35-823|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 4206940683478647331
+    second: Obj3d66-504125-35-823|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 7375000033661169902
+    second: Obj3d66-504125-35-823|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 8111563688886418681
+    second: Obj3d66-504125-35-823|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 8570973287360242592
+    second: Obj3d66-504125-35-823|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -2124200957626534420
+    second: Obj3d66-504125-35-823|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 8772900638151322461
+    second: Obj3d66-504125-35-823|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 6654274643243865187
+    second: Obj3d66-504125-35-823|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -7438208947172301728
+    second: Obj3d66-504125-35-823|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 8721115112576803134
+    second: Obj3d66-504125-35-823|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -6013565364009482939
+    second: Obj3d66-504125-35-823|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -2584229627029868205
+    second: Obj3d66-504125-35-823|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -1703806664331591352
+    second: Obj3d66-504125-35-823|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -2108371198981393435
+    second: Obj3d66-504125-35-823|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 2261556347799289426
+    second: Obj3d66-504125-35-823|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 6148849890327001739
+    second: Obj3d66-504125-35-823|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 8210863611390727861
+    second: Obj3d66-504125-35-823|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 5594663924078334325
+    second: Obj3d66-504125-35-823|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -7046316495030420277
+    second: Obj3d66-504125-35-823|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -7382711873853666991
+    second: Obj3d66-504125-35-823|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 5445610279324612953
+    second: Obj3d66-504125-35-823|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -3732108382551108680
+    second: Obj3d66-504125-35-823|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 65626202974275413
+    second: Obj3d66-504125-35-823|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -4198385393189229741
+    second: Obj3d66-504125-35-823|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 8420291080064151055
+    second: Obj3d66-504125-35-823|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 6168491964860293373
+    second: Obj3d66-504125-41-414|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -7302158911936044988
+    second: Obj3d66-504125-41-414|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -8081457569563652317
+    second: Obj3d66-504125-41-414|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 7347881933329663460
+    second: Obj3d66-504125-41-414|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 4927960155074560318
+    second: Obj3d66-504125-41-414|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 728350299558636646
+    second: Obj3d66-504125-41-414|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -1747642641587411237
+    second: Obj3d66-504125-41-414|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -1815437662274552618
+    second: Obj3d66-504125-41-414|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -4899799770950591609
+    second: Obj3d66-504125-41-414|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 1187662883824038254
+    second: Obj3d66-504125-41-414|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -6639096255153134688
+    second: Obj3d66-504125-41-414|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 5479688783867144193
+    second: Obj3d66-504125-41-414|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 5475331361545854839
+    second: Obj3d66-504125-41-414|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -5506306783193671735
+    second: Obj3d66-504125-41-414|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -5314674314651054302
+    second: Obj3d66-504125-41-414|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -4288381880084783201
+    second: Obj3d66-504125-41-414|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 4390462143086636034
+    second: Obj3d66-504125-41-414|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -1661059028383349312
+    second: Obj3d66-504125-41-414|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 2839225267318828738
+    second: Obj3d66-504125-41-414|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -7441629341115597246
+    second: Obj3d66-504125-41-414|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -8292571844097820550
+    second: Obj3d66-504125-41-414|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -4360809427974204645
+    second: Obj3d66-504125-41-414|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 1223856956538078019
+    second: Obj3d66-504125-41-414|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -2200899564070932623
+    second: Obj3d66-504125-41-414|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 2256729794834918080
+    second: Obj3d66-504125-41-414|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 3264085558804169145
+    second: Obj3d66-504125-41-414|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 3644017465386124394
+    second: Obj3d66-504125-41-414|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 2724703461706505279
+    second: Obj3d66-504125-41-414|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -9142165115815022414
+    second: Obj3d66-504125-41-414|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 2674464710851128408
+    second: Obj3d66-504125-41-414|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 5625858680205451568
+    second: Obj3d66-504125-41-414|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -3796943540995550770
+    second: Obj3d66-504125-41-414|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 133826440064181445
+    second: Obj3d66-504125-41-414|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 8817186179468705918
+    second: Obj3d66-504125-42-249|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 938493202721839754
+    second: Obj3d66-504125-42-249|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -6970929095475063349
+    second: Obj3d66-504125-42-249|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 3082772748151381693
+    second: Obj3d66-504125-42-249|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -1083798323942582410
+    second: Obj3d66-504125-42-249|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 5814633729623892274
+    second: Obj3d66-504125-42-249|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -9000040184600710091
+    second: Obj3d66-504125-42-249|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 2326383272301121709
+    second: Obj3d66-504125-42-249|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -4769875823672085265
+    second: Obj3d66-504125-42-249|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 3546364931304366453
+    second: Obj3d66-504125-42-249|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -499978305087303098
+    second: Obj3d66-504125-42-249|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 7276594534484845390
+    second: Obj3d66-504125-42-249|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 7789342165720395405
+    second: Obj3d66-504125-42-249|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 624876598957037816
+    second: Obj3d66-504125-42-249|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -4338253008799684562
+    second: Obj3d66-504125-42-249|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 2962174539176763351
+    second: Obj3d66-504125-42-249|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -4443421962093235032
+    second: Obj3d66-504125-42-249|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -8565125618984949242
+    second: Obj3d66-504125-42-249|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 6557251930026437367
+    second: Obj3d66-504125-42-249|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -3750812581978100273
+    second: Obj3d66-504125-42-249|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -4423003210843492001
+    second: Obj3d66-504125-42-249|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 8984927228842344945
+    second: Obj3d66-504125-42-249|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 8844074737611343097
+    second: Obj3d66-504125-42-249|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -1738638759228884172
+    second: Obj3d66-504125-42-249|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -8535542683924076475
+    second: Obj3d66-504125-42-249|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 8580529949947886544
+    second: Obj3d66-504125-42-249|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -2597099506304545872
+    second: Obj3d66-504125-42-249|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 368191847938989822
+    second: Obj3d66-504125-42-249|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 806464138427825271
+    second: Obj3d66-504125-42-249|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -8992825282474933351
+    second: Obj3d66-504125-42-249|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 617780995498563138
+    second: Obj3d66-504125-42-249|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -7937472549954716202
+    second: Obj3d66-504125-42-249|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -8557898894436717337
+    second: Obj3d66-504125-42-249|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 3149981760939169494
+    second: Obj3d66-504125-48-101|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -4989145941832950623
+    second: Obj3d66-504125-48-101|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -4766061670665589429
+    second: Obj3d66-504125-48-101|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 5913308756363107140
+    second: Obj3d66-504125-48-101|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 4604622591483420273
+    second: Obj3d66-504125-48-101|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 1637029142856594409
+    second: Obj3d66-504125-48-101|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 539630200619362020
+    second: Obj3d66-504125-48-101|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -6003921353778652744
+    second: Obj3d66-504125-48-101|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 594076833234164232
+    second: Obj3d66-504125-48-101|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -1999511040310536938
+    second: Obj3d66-504125-48-101|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -8425740155208643334
+    second: Obj3d66-504125-48-101|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 1134070281004831867
+    second: Obj3d66-504125-48-101|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -4378869678959913845
+    second: Obj3d66-504125-48-101|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -187837103582123318
+    second: Obj3d66-504125-48-101|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -3854957733918027355
+    second: Obj3d66-504125-48-101|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 3432573710800607025
+    second: Obj3d66-504125-48-101|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -4453182485410945359
+    second: Obj3d66-504125-48-101|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 2650589106547038646
+    second: Obj3d66-504125-48-101|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -6268143751408390929
+    second: Obj3d66-504125-48-101|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -6958803316259062839
+    second: Obj3d66-504125-48-101|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -7061991003404602861
+    second: Obj3d66-504125-48-101|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -257654479983172393
+    second: Obj3d66-504125-48-101|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 6902118976057075440
+    second: Obj3d66-504125-48-101|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 1062800691979454004
+    second: Obj3d66-504125-48-101|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -7299700834951383815
+    second: Obj3d66-504125-48-101|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 4058825313254664157
+    second: Obj3d66-504125-48-101|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 5478239021694145262
+    second: Obj3d66-504125-48-101|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -3263302433384448876
+    second: Obj3d66-504125-48-101|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -1922998026621222732
+    second: Obj3d66-504125-48-101|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 1795902011054560354
+    second: Obj3d66-504125-48-101|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -7627756917900582670
+    second: Obj3d66-504125-48-101|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -2533662243901049698
+    second: Obj3d66-504125-48-101|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 2341891522768641823
+    second: Obj3d66-504125-48-101|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -1667556209175304281
+    second: Obj3d66-504125-50-857|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 5691334227497834315
+    second: Obj3d66-504125-50-857|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 7387226374479895999
+    second: Obj3d66-504125-50-857|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -6436701713415975532
+    second: Obj3d66-504125-50-857|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -3711188803347746059
+    second: Obj3d66-504125-50-857|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 6801110232150567004
+    second: Obj3d66-504125-50-857|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -3920719248372423057
+    second: Obj3d66-504125-50-857|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -8257749768362364485
+    second: Obj3d66-504125-50-857|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 9189701448251088189
+    second: Obj3d66-504125-50-857|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 5784068900821330548
+    second: Obj3d66-504125-50-857|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 4200727700306859771
+    second: Obj3d66-504125-50-857|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: -6411753811796845382
+    second: Obj3d66-504125-50-857|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 6783157923072263962
+    second: Obj3d66-504125-50-857|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 6052910362360875351
+    second: Obj3d66-504125-50-857|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -5817838778464905306
+    second: Obj3d66-504125-50-857|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 5812690112056469957
+    second: Obj3d66-504125-50-857|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -6055898458277096648
+    second: Obj3d66-504125-50-857|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -8810487119913705169
+    second: Obj3d66-504125-50-857|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -163256276020592714
+    second: Obj3d66-504125-50-857|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 3802700523346007928
+    second: Obj3d66-504125-50-857|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -3859717572808111976
+    second: Obj3d66-504125-50-857|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 6816147911006468417
+    second: Obj3d66-504125-50-857|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 6775193798593550975
+    second: Obj3d66-504125-50-857|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -8366781175297443865
+    second: Obj3d66-504125-50-857|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 4766004071440562007
+    second: Obj3d66-504125-50-857|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -2621551026542054284
+    second: Obj3d66-504125-50-857|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 7898350805100150581
+    second: Obj3d66-504125-50-857|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -8318075049281795945
+    second: Obj3d66-504125-50-857|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 5296486095961192877
+    second: Obj3d66-504125-50-857|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 7724710537864816903
+    second: Obj3d66-504125-50-857|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -4123880601386419562
+    second: Obj3d66-504125-50-857|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 3278546245118655501
+    second: Obj3d66-504125-50-857|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -8744357199699931518
+    second: Obj3d66-504125-50-857|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -689939830141007211
+    second: Obj3d66-504125-56-514|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -5536279671461009633
+    second: Obj3d66-504125-56-514|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 3643933639790673842
+    second: Obj3d66-504125-56-514|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -7230545723837448147
+    second: Obj3d66-504125-56-514|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -7435992280546061482
+    second: Obj3d66-504125-56-514|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -6057923586845636082
+    second: Obj3d66-504125-56-514|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 2221800997296674040
+    second: Obj3d66-504125-56-514|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -307856020964740657
+    second: Obj3d66-504125-56-514|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -762871117546517415
+    second: Obj3d66-504125-56-514|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -6889467683177739109
+    second: Obj3d66-504125-56-514|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 7702316875328653588
+    second: Obj3d66-504125-56-514|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: -1915434152882342508
+    second: Obj3d66-504125-56-514|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -7553808676520071362
+    second: Obj3d66-504125-56-514|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -1962992418883876102
+    second: Obj3d66-504125-56-514|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 5423920884296746122
+    second: Obj3d66-504125-56-514|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 6879480987429940050
+    second: Obj3d66-504125-56-514|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -8650739449257829713
+    second: Obj3d66-504125-56-514|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -1305044388964519649
+    second: Obj3d66-504125-56-514|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 5287050358620975082
+    second: Obj3d66-504125-56-514|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -876161351377754119
+    second: Obj3d66-504125-56-514|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -8822238395042180906
+    second: Obj3d66-504125-56-514|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 4008366553333567617
+    second: Obj3d66-504125-56-514|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 8372451164027012878
+    second: Obj3d66-504125-56-514|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -4468069922562151839
+    second: Obj3d66-504125-56-514|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -2103984763713644519
+    second: Obj3d66-504125-56-514|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -4624237923842360026
+    second: Obj3d66-504125-56-514|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 697019018487544815
+    second: Obj3d66-504125-56-514|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -3498733458391998628
+    second: Obj3d66-504125-56-514|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -1452708502306839320
+    second: Obj3d66-504125-56-514|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -5102442124815648139
+    second: Obj3d66-504125-56-514|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 25604748914998556
+    second: Obj3d66-504125-56-514|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 5704024352412242300
+    second: Obj3d66-504125-56-514|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -7476435992724888915
+    second: Obj3d66-504125-56-514|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -9104682890026602908
+    second: Obj3d66-504125-57-526|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 1052453723948693129
+    second: Obj3d66-504125-57-526|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -5339098289443499196
+    second: Obj3d66-504125-57-526|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: -5196489787548406387
+    second: Obj3d66-504125-57-526|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 4776983190892829029
+    second: Obj3d66-504125-57-526|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 8643176891504419140
+    second: Obj3d66-504125-57-526|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 9101138041993251351
+    second: Obj3d66-504125-57-526|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 8957584134829551268
+    second: Obj3d66-504125-57-526|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 21894758023532648
+    second: Obj3d66-504125-57-526|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -8062186877665926075
+    second: Obj3d66-504125-57-526|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 3380311914860943108
+    second: Obj3d66-504125-57-526|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 2776518120096471069
+    second: Obj3d66-504125-57-526|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -7949405173006189964
+    second: Obj3d66-504125-57-526|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -7609737800532556053
+    second: Obj3d66-504125-57-526|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 7733594335063198170
+    second: Obj3d66-504125-57-526|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -4867266102720382006
+    second: Obj3d66-504125-57-526|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -6586934097090590164
+    second: Obj3d66-504125-57-526|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -7343478341659301489
+    second: Obj3d66-504125-57-526|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -3822930133124989505
+    second: Obj3d66-504125-57-526|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -8277092188431167921
+    second: Obj3d66-504125-57-526|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -3145082349214811770
+    second: Obj3d66-504125-57-526|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -879554881643882176
+    second: Obj3d66-504125-57-526|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 4837140660499546551
+    second: Obj3d66-504125-57-526|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -8755976571949547011
+    second: Obj3d66-504125-57-526|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 2046321738431906781
+    second: Obj3d66-504125-57-526|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 5617591911365808391
+    second: Obj3d66-504125-57-526|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 7334475919839646353
+    second: Obj3d66-504125-57-526|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 1461383436478695879
+    second: Obj3d66-504125-57-526|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -6032186020935614531
+    second: Obj3d66-504125-57-526|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 8230186008928094641
+    second: Obj3d66-504125-57-526|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 8675174224167067877
+    second: Obj3d66-504125-57-526|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -8350787954728882890
+    second: Obj3d66-504125-57-526|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 1975881594707276159
+    second: Obj3d66-504125-57-526|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -3433306738192781623
+    second: Obj3d66-504125-63-219|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 3803339474192613212
+    second: Obj3d66-504125-63-219|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -8584293658246775233
+    second: Obj3d66-504125-63-219|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 8545350662342956832
+    second: Obj3d66-504125-63-219|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -6253806739270948926
+    second: Obj3d66-504125-63-219|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -8214896079670183918
+    second: Obj3d66-504125-63-219|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -4783988865971917674
+    second: Obj3d66-504125-63-219|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 2675512214727153518
+    second: Obj3d66-504125-63-219|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -882416546133904240
+    second: Obj3d66-504125-63-219|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -7547609405682225138
+    second: Obj3d66-504125-63-219|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 1402796270734545769
+    second: Obj3d66-504125-63-219|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 4139627159185738781
+    second: Obj3d66-504125-63-219|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -5837887381224167396
+    second: Obj3d66-504125-63-219|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -3713901947835134442
+    second: Obj3d66-504125-63-219|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 2042713189359754430
+    second: Obj3d66-504125-63-219|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 5772894848030866077
+    second: Obj3d66-504125-63-219|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 8698237131069038924
+    second: Obj3d66-504125-63-219|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 442867657617195774
+    second: Obj3d66-504125-63-219|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 6138636330841355971
+    second: Obj3d66-504125-63-219|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -4288957715983178183
+    second: Obj3d66-504125-63-219|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -4742648458676723900
+    second: Obj3d66-504125-63-219|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -6739652878357353093
+    second: Obj3d66-504125-63-219|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -4027419132129935909
+    second: Obj3d66-504125-63-219|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -337153293119270634
+    second: Obj3d66-504125-63-219|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 6335556423042057824
+    second: Obj3d66-504125-63-219|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 5739644915404152922
+    second: Obj3d66-504125-63-219|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -8784199692832925674
+    second: Obj3d66-504125-63-219|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -7008657727297491530
+    second: Obj3d66-504125-63-219|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -7321354751640522196
+    second: Obj3d66-504125-63-219|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -5560186434559715732
+    second: Obj3d66-504125-63-219|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -8419851669459878106
+    second: Obj3d66-504125-63-219|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 6270904134806088056
+    second: Obj3d66-504125-63-219|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -5508475288813254949
+    second: Obj3d66-504125-63-219|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 5334953593613738316
+    second: Obj3d66-504125-64-647|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 949976419808078905
+    second: Obj3d66-504125-64-647|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 3465149721555193643
+    second: Obj3d66-504125-64-647|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 4792608351005004916
+    second: Obj3d66-504125-64-647|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: -7286385649212379903
+    second: Obj3d66-504125-64-647|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -3306081970344992831
+    second: Obj3d66-504125-64-647|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 5992370073835410479
+    second: Obj3d66-504125-64-647|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -529158399705061536
+    second: Obj3d66-504125-64-647|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -4677176566001613864
+    second: Obj3d66-504125-64-647|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -5248174930656936389
+    second: Obj3d66-504125-64-647|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 7271911527886007968
+    second: Obj3d66-504125-64-647|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 2567550867600810610
+    second: Obj3d66-504125-64-647|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 2191484705100003334
+    second: Obj3d66-504125-64-647|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 4054127222315176861
+    second: Obj3d66-504125-64-647|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -5075025535643962670
+    second: Obj3d66-504125-64-647|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 5939236019946795470
+    second: Obj3d66-504125-64-647|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 685485176856983125
+    second: Obj3d66-504125-64-647|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -3321412272055478544
+    second: Obj3d66-504125-64-647|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -8085400488643450430
+    second: Obj3d66-504125-64-647|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 4713550410518123713
+    second: Obj3d66-504125-64-647|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -1126674372081889200
+    second: Obj3d66-504125-64-647|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -7192267221533320561
+    second: Obj3d66-504125-64-647|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -5956896284728459229
+    second: Obj3d66-504125-64-647|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 757143150460185691
+    second: Obj3d66-504125-64-647|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 5668127153886732692
+    second: Obj3d66-504125-64-647|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -7444282822822830865
+    second: Obj3d66-504125-64-647|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -6956235308771571353
+    second: Obj3d66-504125-64-647|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 5922339324969727947
+    second: Obj3d66-504125-64-647|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -7210509257302236449
+    second: Obj3d66-504125-64-647|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 2457095144798392088
+    second: Obj3d66-504125-64-647|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 805626555826407871
+    second: Obj3d66-504125-64-647|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -6221605907554704895
+    second: Obj3d66-504125-64-647|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 8331168049476319268
+    second: Obj3d66-504125-64-647|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -1199944745699431402
+    second: Obj3d66-504125-66-360|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -4712937219126176615
+    second: Obj3d66-504125-66-360|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 7720791927187651617
+    second: Obj3d66-504125-66-360|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 5181762359313458085
+    second: Obj3d66-504125-66-360|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 540218385061790477
+    second: Obj3d66-504125-66-360|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 40051342389408558
+    second: Obj3d66-504125-66-360|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -5673827249260135603
+    second: Obj3d66-504125-66-360|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 3286491713690906313
+    second: Obj3d66-504125-66-360|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -6987603753693292462
+    second: Obj3d66-504125-66-360|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 8206523463008042494
+    second: Obj3d66-504125-66-360|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 5364038371859585918
+    second: Obj3d66-504125-66-360|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 1532068916561162450
+    second: Obj3d66-504125-66-360|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -2626253531362884371
+    second: Obj3d66-504125-66-360|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -7214704505472058778
+    second: Obj3d66-504125-66-360|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -4936249378001495740
+    second: Obj3d66-504125-66-360|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 159130591005229612
+    second: Obj3d66-504125-66-360|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 9108634767497428893
+    second: Obj3d66-504125-66-360|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -3746435165394560097
+    second: Obj3d66-504125-66-360|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 8081540298299135454
+    second: Obj3d66-504125-66-360|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -3971454295195195630
+    second: Obj3d66-504125-66-360|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 2889185580327422456
+    second: Obj3d66-504125-66-360|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 6674982828023330720
+    second: Obj3d66-504125-66-360|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -8725408852914984512
+    second: Obj3d66-504125-66-360|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -8307418967477143453
+    second: Obj3d66-504125-66-360|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -2894945093786197985
+    second: Obj3d66-504125-66-360|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 7563523777076769269
+    second: Obj3d66-504125-66-360|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 3781481644698619305
+    second: Obj3d66-504125-66-360|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 2849311597795004139
+    second: Obj3d66-504125-66-360|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -956138793551433294
+    second: Obj3d66-504125-66-360|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -8717914757759663410
+    second: Obj3d66-504125-66-360|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -8234537220711921836
+    second: Obj3d66-504125-66-360|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 7486168371911010164
+    second: Obj3d66-504125-66-360|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 8187979950851258090
+    second: Obj3d66-504125-66-360|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 1824224865794081086
+    second: Obj3d66-504125-68-202|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -3592141454811763839
+    second: Obj3d66-504125-68-202|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -4325111825677013171
+    second: Obj3d66-504125-68-202|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 1236358270751334094
+    second: Obj3d66-504125-68-202|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 4824133106744975993
+    second: Obj3d66-504125-68-202|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -6108948680816624611
+    second: Obj3d66-504125-68-202|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 1564111993251747122
+    second: Obj3d66-504125-68-202|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -3495307626321677516
+    second: Obj3d66-504125-68-202|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -6978627201200317911
+    second: Obj3d66-504125-68-202|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -7074728235329309359
+    second: Obj3d66-504125-68-202|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 1196668752660037210
+    second: Obj3d66-504125-68-202|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 8085915434292074717
+    second: Obj3d66-504125-68-202|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: -1873847581298538334
+    second: Obj3d66-504125-68-202|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 604852719827958921
+    second: Obj3d66-504125-68-202|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 2356697674069361274
+    second: Obj3d66-504125-68-202|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 3833073561250820549
+    second: Obj3d66-504125-68-202|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -625896111558489896
+    second: Obj3d66-504125-68-202|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 3856081516689048604
+    second: Obj3d66-504125-68-202|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -4515069347223977496
+    second: Obj3d66-504125-68-202|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -2479461876347574471
+    second: Obj3d66-504125-68-202|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 8773098941939016855
+    second: Obj3d66-504125-68-202|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -4507031284491920278
+    second: Obj3d66-504125-68-202|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 2583147507202103234
+    second: Obj3d66-504125-68-202|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -8491710186816774759
+    second: Obj3d66-504125-68-202|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -5787260003060155702
+    second: Obj3d66-504125-68-202|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 4178762335599908773
+    second: Obj3d66-504125-68-202|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 2093581463626490583
+    second: Obj3d66-504125-68-202|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -5412933413104698540
+    second: Obj3d66-504125-68-202|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -3564772537209422318
+    second: Obj3d66-504125-68-202|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 7404618678320718918
+    second: Obj3d66-504125-68-202|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 3436945751501006381
+    second: Obj3d66-504125-68-202|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -4791948474421374182
+    second: Obj3d66-504125-68-202|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -4935302575872224096
+    second: Obj3d66-504125-68-202|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -4524119776447640007
+    second: Obj3d66-504125-70-886|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 8649835809753930855
+    second: Obj3d66-504125-70-886|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -9084032214440464873
+    second: Obj3d66-504125-70-886|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 8143881958932834776
+    second: Obj3d66-504125-70-886|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 528897129081554184
+    second: Obj3d66-504125-70-886|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: -6669823454088634256
+    second: Obj3d66-504125-70-886|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -6599257206686686415
+    second: Obj3d66-504125-70-886|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: -6576196485423774677
+    second: Obj3d66-504125-70-886|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 4886896083946987635
+    second: Obj3d66-504125-70-886|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: -7598538527934825239
+    second: Obj3d66-504125-70-886|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -4238932258839318573
+    second: Obj3d66-504125-70-886|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 6011958818869865972
+    second: Obj3d66-504125-70-886|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 5978699825261315373
+    second: Obj3d66-504125-70-886|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -7396730540772667123
+    second: Obj3d66-504125-70-886|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: -3065616047999518609
+    second: Obj3d66-504125-70-886|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -493856491598324421
+    second: Obj3d66-504125-70-886|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: 1636434613280461469
+    second: Obj3d66-504125-70-886|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -517973495889744344
+    second: Obj3d66-504125-70-886|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 5982763749801621758
+    second: Obj3d66-504125-70-886|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 9097570449819607571
+    second: Obj3d66-504125-70-886|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 8892489486337232554
+    second: Obj3d66-504125-70-886|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 8123975958805972047
+    second: Obj3d66-504125-70-886|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 7357373394982544771
+    second: Obj3d66-504125-70-886|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -7382669426531904763
+    second: Obj3d66-504125-70-886|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 7898616689491943215
+    second: Obj3d66-504125-70-886|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -2199030767384773463
+    second: Obj3d66-504125-70-886|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: 8303858028425607193
+    second: Obj3d66-504125-70-886|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: 141716566769454974
+    second: Obj3d66-504125-70-886|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -9022234971080484418
+    second: Obj3d66-504125-70-886|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -3463579808821059457
+    second: Obj3d66-504125-70-886|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 2608191629626467072
+    second: Obj3d66-504125-70-886|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -5008481229605880177
+    second: Obj3d66-504125-70-886|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -2409995974164458775
+    second: Obj3d66-504125-70-886|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 1570786264538217344
+    second: Obj3d66-504125-73-460|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 5095075159250610996
+    second: Obj3d66-504125-73-460|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -6926317527424939151
+    second: Obj3d66-504125-73-460|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 8052312933533138989
+    second: Obj3d66-504125-73-460|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 1782661403618881624
+    second: Obj3d66-504125-73-460|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 4557914182439399695
+    second: Obj3d66-504125-73-460|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 946022800345180281
+    second: Obj3d66-504125-73-460|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 96880595903529266
+    second: Obj3d66-504125-73-460|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: 3404410135692641860
+    second: Obj3d66-504125-73-460|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 2138844650019426634
+    second: Obj3d66-504125-73-460|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 4133491146647899250
+    second: Obj3d66-504125-73-460|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 30683857237993820
+    second: Obj3d66-504125-73-460|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 2675162130008321989
+    second: Obj3d66-504125-73-460|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -9159373765876973992
+    second: Obj3d66-504125-73-460|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 3160198688421999207
+    second: Obj3d66-504125-73-460|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -6562104318650936608
+    second: Obj3d66-504125-73-460|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -4925625768725669497
+    second: Obj3d66-504125-73-460|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 7161468286890353351
+    second: Obj3d66-504125-73-460|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: -5782245303720133400
+    second: Obj3d66-504125-73-460|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 5393944955600687371
+    second: Obj3d66-504125-73-460|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 6180435077826876998
+    second: Obj3d66-504125-73-460|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -8491515890291497756
+    second: Obj3d66-504125-73-460|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: -7941618929669690158
+    second: Obj3d66-504125-73-460|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: -2639212755496345784
+    second: Obj3d66-504125-73-460|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: 638213794825460447
+    second: Obj3d66-504125-73-460|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: 8383931990473910439
+    second: Obj3d66-504125-73-460|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -1983695082510088596
+    second: Obj3d66-504125-73-460|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -633321155452534427
+    second: Obj3d66-504125-73-460|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -9005097886464328485
+    second: Obj3d66-504125-73-460|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 3529153845474154003
+    second: Obj3d66-504125-73-460|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 7751757725386997417
+    second: Obj3d66-504125-73-460|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 8606367429082107747
+    second: Obj3d66-504125-73-460|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: 3042917917243644952
+    second: Obj3d66-504125-73-460|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: -6986729065545066682
+    second: Obj3d66-504125-74-332|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: -2166388841942602057
+    second: Obj3d66-504125-74-332|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: -694517024931675200
+    second: Obj3d66-504125-74-332|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 3502403013616735721
+    second: Obj3d66-504125-74-332|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 4787692188140202486
+    second: Obj3d66-504125-74-332|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 2476924356370660465
+    second: Obj3d66-504125-74-332|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: -3962370511790923634
+    second: Obj3d66-504125-74-332|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 793559854660700880
+    second: Obj3d66-504125-74-332|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -3857862443428731789
+    second: Obj3d66-504125-74-332|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 7913344510577704844
+    second: Obj3d66-504125-74-332|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: 7441525715968657288
+    second: Obj3d66-504125-74-332|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 8964140711953627330
+    second: Obj3d66-504125-74-332|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 6050817009818201108
+    second: Obj3d66-504125-74-332|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: -784479893482201988
+    second: Obj3d66-504125-74-332|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 5823339958583166320
+    second: Obj3d66-504125-74-332|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: -5366290172507541127
+    second: Obj3d66-504125-74-332|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -4666131337274004219
+    second: Obj3d66-504125-74-332|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: 9005026058893248890
+    second: Obj3d66-504125-74-332|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 8228666452984887668
+    second: Obj3d66-504125-74-332|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: -6537767541539376409
+    second: Obj3d66-504125-74-332|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: -6274660371870927800
+    second: Obj3d66-504125-74-332|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: -4285582109220084573
+    second: Obj3d66-504125-74-332|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 3793949254556414755
+    second: Obj3d66-504125-74-332|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 4503823801016636063
+    second: Obj3d66-504125-74-332|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -6885226511528730845
+    second: Obj3d66-504125-74-332|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -3765961101246096597
+    second: Obj3d66-504125-74-332|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -7827311488039859515
+    second: Obj3d66-504125-74-332|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -687217946365713048
+    second: Obj3d66-504125-74-332|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: -4071451710308747844
+    second: Obj3d66-504125-74-332|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: -1662652017739781537
+    second: Obj3d66-504125-74-332|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: 3403140935011929652
+    second: Obj3d66-504125-74-332|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: 8752128515381119807
+    second: Obj3d66-504125-74-332|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -1161815608586076634
+    second: Obj3d66-504125-74-332|Obj3d66-504125-9-899|Take 001|BaseLayer
+  - first:
+      74: 3514271911471575617
+    second: Obj3d66-504125-77-112|Obj3d66-504125-13-464|Take 001|BaseLayer
+  - first:
+      74: 7443150905595585739
+    second: Obj3d66-504125-77-112|Obj3d66-504125-14-716|Take 001|BaseLayer
+  - first:
+      74: 2659246243614110716
+    second: Obj3d66-504125-77-112|Obj3d66-504125-16-20|Take 001|BaseLayer
+  - first:
+      74: 5064351609606365989
+    second: Obj3d66-504125-77-112|Obj3d66-504125-2-885|Take 001|BaseLayer
+  - first:
+      74: 2821705560560103777
+    second: Obj3d66-504125-77-112|Obj3d66-504125-20-992|Take 001|BaseLayer
+  - first:
+      74: 7497809892872638300
+    second: Obj3d66-504125-77-112|Obj3d66-504125-21-73|Take 001|BaseLayer
+  - first:
+      74: 4798357602584433924
+    second: Obj3d66-504125-77-112|Obj3d66-504125-24-633|Take 001|BaseLayer
+  - first:
+      74: 688695239882722112
+    second: Obj3d66-504125-77-112|Obj3d66-504125-27-699|Take 001|BaseLayer
+  - first:
+      74: -3532653892325058208
+    second: Obj3d66-504125-77-112|Obj3d66-504125-29-878|Take 001|BaseLayer
+  - first:
+      74: 5070879471741050594
+    second: Obj3d66-504125-77-112|Obj3d66-504125-31-530|Take 001|BaseLayer
+  - first:
+      74: -3399871354659755882
+    second: Obj3d66-504125-77-112|Obj3d66-504125-34-356|Take 001|BaseLayer
+  - first:
+      74: 2203883376623946999
+    second: Obj3d66-504125-77-112|Obj3d66-504125-35-823|Take 001|BaseLayer
+  - first:
+      74: 183370901982547686
+    second: Obj3d66-504125-77-112|Obj3d66-504125-37-250|Take 001|BaseLayer
+  - first:
+      74: 4601875372577893530
+    second: Obj3d66-504125-77-112|Obj3d66-504125-41-414|Take 001|BaseLayer
+  - first:
+      74: 4440311665258541150
+    second: Obj3d66-504125-77-112|Obj3d66-504125-42-249|Take 001|BaseLayer
+  - first:
+      74: 5177192697958684248
+    second: Obj3d66-504125-77-112|Obj3d66-504125-45-616|Take 001|BaseLayer
+  - first:
+      74: -7400117089801360926
+    second: Obj3d66-504125-77-112|Obj3d66-504125-48-101|Take 001|BaseLayer
+  - first:
+      74: -537098297028629489
+    second: Obj3d66-504125-77-112|Obj3d66-504125-5-412|Take 001|BaseLayer
+  - first:
+      74: 48037802440572670
+    second: Obj3d66-504125-77-112|Obj3d66-504125-50-857|Take 001|BaseLayer
+  - first:
+      74: 125980218874672673
+    second: Obj3d66-504125-77-112|Obj3d66-504125-52-906|Take 001|BaseLayer
+  - first:
+      74: 4665819468770883563
+    second: Obj3d66-504125-77-112|Obj3d66-504125-56-514|Take 001|BaseLayer
+  - first:
+      74: 8659639613487203468
+    second: Obj3d66-504125-77-112|Obj3d66-504125-57-526|Take 001|BaseLayer
+  - first:
+      74: 4610398683997903209
+    second: Obj3d66-504125-77-112|Obj3d66-504125-59-400|Take 001|BaseLayer
+  - first:
+      74: 6557158396769695542
+    second: Obj3d66-504125-77-112|Obj3d66-504125-63-219|Take 001|BaseLayer
+  - first:
+      74: -2270279972293022132
+    second: Obj3d66-504125-77-112|Obj3d66-504125-64-647|Take 001|BaseLayer
+  - first:
+      74: -794037071906618850
+    second: Obj3d66-504125-77-112|Obj3d66-504125-66-360|Take 001|BaseLayer
+  - first:
+      74: -7801238447159008019
+    second: Obj3d66-504125-77-112|Obj3d66-504125-68-202|Take 001|BaseLayer
+  - first:
+      74: -3969703401163126470
+    second: Obj3d66-504125-77-112|Obj3d66-504125-7-710|Take 001|BaseLayer
+  - first:
+      74: 8017238586096950326
+    second: Obj3d66-504125-77-112|Obj3d66-504125-70-886|Take 001|BaseLayer
+  - first:
+      74: 2338832809435683676
+    second: Obj3d66-504125-77-112|Obj3d66-504125-73-460|Take 001|BaseLayer
+  - first:
+      74: -8173863045248468986
+    second: Obj3d66-504125-77-112|Obj3d66-504125-74-332|Take 001|BaseLayer
+  - first:
+      74: -755391587290057904
+    second: Obj3d66-504125-77-112|Obj3d66-504125-77-112|Take 001|BaseLayer
+  - first:
+      74: -349147454254229965
+    second: Obj3d66-504125-77-112|Obj3d66-504125-9-899|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

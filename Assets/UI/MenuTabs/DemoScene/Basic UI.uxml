@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Styles/labels.uss?fileID=7433441132597879392&amp;guid=65280e0f1394d2e4fa8a64279a9c297e&amp;type=3#labels" />
+    <ui:VisualElement name="gui-area" style="flex-direction: column-reverse; justify-content: flex-start; flex-grow: 1;">
+        <ui:VisualElement name="message-area" style="flex-basis: 20%; flex-direction: row; -unity-text-align: middle-left; display: none;">
+            <ui:Label text="Использовать" display-tooltip-when-elided="true" name="use-label" class="label" style="font-size: 80px; -unity-text-align: middle-center; -unity-slice-left: 0; margin-left: 40%; height: 80%; display: flex;" />
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="button-to-use-label" class="label" style="font-size: 80px; border-left-width: 0; -unity-background-image-tint-color: rgba(224, 0, 0, 255); background-color: rgba(82, 10, 62, 255); margin-left: 50px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0; border-top-left-radius: 28px; border-bottom-left-radius: 28px; border-top-right-radius: 28px; border-bottom-right-radius: 28px; height: 80%; -unity-text-align: middle-center;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="Basic UI" src="project://database/Assets/UI/MenuTabs/DemoScene/Basic%20UI.uxml?fileID=9197481963319205126&amp;guid=b759191920ff15c4c833d0f335bf528c&amp;type=3#Basic UI" />
+    <ui:Template name="PauseMenu" src="project://database/Assets/UI/MenuTabs/DemoScene/PauseMenu.uxml?fileID=9197481963319205126&amp;guid=e4590df048efa104e933542db881dc0f&amp;type=3#PauseMenu" />
+    <ui:Template name="Credits" src="project://database/Assets/UI/MenuTabs/MainMenu/Credits.uxml?fileID=9197481963319205126&amp;guid=db20e39f446f3fe44bc28651064b2e73&amp;type=3#Credits" />
+    <ui:Instance template="Basic UI" name="BasicUI" style="display: flex; flex-grow: 1;" />
+    <ui:Instance template="PauseMenu" name="PauseMenu" style="display: none; flex-grow: 1;" />
+    <ui:Instance template="Credits" name="Credits" style="display: none; flex-grow: 1;" />
+</ui:UXML>
